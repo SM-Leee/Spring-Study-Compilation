@@ -38,5 +38,9 @@
 		<module>spring-study-container</module>
 		<module>spring-study-hellospring2</module>
 		<module>spring-study-hellospring3</module>
+		<module>spring-study-emaillist1</module>
+		<module>spring-study-emaillist2</module>
+		<module>spring-study-emaillist3</module>
+		<module>spring-study-emaillist4</module>
 	</modules>
 </project>
