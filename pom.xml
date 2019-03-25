@@ -45,5 +45,6 @@
 		<module>spring-study-guestbook3</module>
 		<module>spring-study-guestbook4</module>
 		<module>spring-study-mysite3</module>
+		<module>spring-study-mysite4</module>
 	</modules>
 </project>
