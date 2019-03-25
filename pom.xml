@@ -42,5 +42,8 @@
 		<module>spring-study-emaillist2</module>
 		<module>spring-study-emaillist3</module>
 		<module>spring-study-emaillist4</module>
+		<module>spring-study-guestbook3</module>
+		<module>spring-study-guestbook4</module>
+		<module>spring-study-mysite3</module>
 	</modules>
 </project>
